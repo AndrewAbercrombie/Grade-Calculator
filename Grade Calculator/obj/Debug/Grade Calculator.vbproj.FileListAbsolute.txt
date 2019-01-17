@@ -1,0 +1,39 @@
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.xml
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Resources.resources
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.vbproj.GenerateResource.Cache
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.xml
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\aaandrewabercrombie\source\repos\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Change.resources
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.xml
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Change.resources
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade_Calculator.Resources.resources
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.vbproj.GenerateResource.Cache
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.xml
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\bin\Debug\Grade Calculator.xml
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\obj\Debug\Grade Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\obj\Debug\Grade_Calculator.Change.resources
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\obj\Debug\Grade_Calculator.Resources.resources
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\obj\Debug\Grade Calculator.vbproj.GenerateResource.Cache
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\obj\Debug\Grade Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\obj\Debug\Grade Calculator.xml
+C:\Users\aaandrewabercrombie\Desktop\Grade Calculator - Copy\Grade Calculator\obj\Debug\Grade Calculator.pdb
